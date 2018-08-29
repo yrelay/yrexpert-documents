@@ -2,8 +2,6 @@
 
 # Documents pour votre système expert...
 
-[![npm downloads][downloads-image]][downloads-url]
-
 **yrexpert-documents** est un dépôt regroupant les documents pour le système expert *Yexpert* de [Yrelay](http://www.yrelay.fr).
 
 ## 1. Contenu du dépôt
@@ -45,6 +43,5 @@ Pour remonter un bug : [https://github.com/yrelay/yrexpert-documents/issues](htt
 * Yrelay Référentiels : [http://code.yrelay.fr/](https://code.yrelay.fr/)
 * Yrelay Github : [https://github.com/yrelay/](https://github.com/yrelay/)
 
-[downloads-image]: https://img.shields.io/npm/dm/yrexpert-documents.svg
-[downloads-url]: https://npmjs.org/package/yrexpert-documents
+
 
