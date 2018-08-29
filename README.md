@@ -1,4 +1,4 @@
-![yexpert-logo.png](./images/yexpert-logo.png)
+![yrexpert-logo.png](./images/yrexpert-logo.png)
 
 # Documents pour votre système expert...
 
